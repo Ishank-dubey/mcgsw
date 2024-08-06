@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Caregiver’s Openness To Services</description>
+        <isActive>true</isActive>
+        <name>Caregiver’s Openness To Services</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Caregiver’s Openness To Services</questionText>
+        <responseValues>Open To Ask For Help
+Open To Receiving Services
+Reluctant To Ask For Help
+Reluctant To Receiving Services</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_CaregiversOpennessToServices</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Caregiver’s Openness To Services</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

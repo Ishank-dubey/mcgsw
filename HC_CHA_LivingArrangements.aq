@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Living Arrangements</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Living Arrangements</questionText>
+        <responseValues>Alone
+With Spouse
+With Family
+With Friends
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_LivingArrangements</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Living Arrangements</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

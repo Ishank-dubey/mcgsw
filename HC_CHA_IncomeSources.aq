@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Income Sources</description>
+        <isActive>true</isActive>
+        <name>Income Sources</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Income Sources</questionText>
+        <responseValues>No Income 
+Canada Pension Plan
+Canada Pension Plan Disability
+Old Age Security 
+Guaranteed Income Supplement
+Employment Pension
+Veterans Affairs Canada
+Income Assistance
+Employment Insurance Benefits
+Employment
+Private Health Insurance
+WorksafeNB
+Employment Sick Leave
+Employment Short Term Disability
+Employment Long Term Disability
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Multiselect</dataType>
+    <developerName>HC_CHA_IncomeSources</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Income Sources</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

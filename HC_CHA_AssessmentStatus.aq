@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Assessment Status</description>
+        <isActive>true</isActive>
+        <name>Assessment Status</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Assessment Status</questionText>
+        <responseValues>Incomplete
+Complete</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_AssessmentStatus</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Assessment Status</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

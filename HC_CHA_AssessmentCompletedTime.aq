@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Assessment Completed Time</description>
+        <isActive>true</isActive>
+        <name>Assessment Completed Time</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Assessment Completed Time</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Time</dataType>
+    <developerName>HC_CHA_AssessmentCompletedTime</developerName>
+    <name>Assessment Completed Time</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

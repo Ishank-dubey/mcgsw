@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Assessment Findings</description>
+        <helpText>Add All Findings To The Patient’s Care Plan</helpText>
+        <isActive>true</isActive>
+        <name>Assessment Findings</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Assessment Findings</questionText>
+        <responseValues>Abuse/Neglect
+Anxiety 
+Behavioral Issues
+Capacity to Problem Solve
+Caregiver Issues 
+Conflict 
+Coping and Adjustment Difficulties
+Crisis
+Cognitive Impairment
+Dependency Issues
+Depression Symptoms
+Financial Issues
+Grief and Loss
+Housing/Placement Needs
+Interpersonal Stress/Coping
+Insufficient Resources
+Legal Issues 
+Life Stage/Role Change
+Mental Health Issues
+Palliative Care
+Rehabilitation Needs
+Resistance to Treatment
+Safety Issues
+Social Isolation
+Suicide Risk 
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Multiselect</dataType>
+    <developerName>HC_CHA_AssessmentFindings</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Assessment Findings</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

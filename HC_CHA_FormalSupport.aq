@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <helpText>Paid</helpText>
+        <isActive>true</isActive>
+        <name>Formal Support</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Formal Support</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_FormalSupport</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Formal Support</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

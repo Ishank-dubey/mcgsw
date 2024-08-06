@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Highest Level Of Education Completed</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Highest Level Of Education Completed</questionText>
+        <responseValues>No Education
+Elementary  School
+Junior High School
+Senior High School
+High School Diploma/General Education Diploma (GED)
+College
+University
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_HighestLevelOfEducationCompleted</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Highest Level Of Education Completed</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

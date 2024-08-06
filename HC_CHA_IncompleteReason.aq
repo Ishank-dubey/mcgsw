@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Incomplete Reason</description>
+        <isActive>true</isActive>
+        <name>Incomplete Reason</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Incomplete Reason</questionText>
+        <responseValues>Language barrier
+Communication barrier (i.e. hearing issues)
+Insufficient time/ capacity
+Cognitive barrier
+No phone No answer
+Urgent Patient Needs
+Cancelled at patient’s request
+Cancelled at referral source
+Change in patient condition - hospitalized
+Change in patient condition - deceased
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_IncompleteReason</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Incomplete Reason</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

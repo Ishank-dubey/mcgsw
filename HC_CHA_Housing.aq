@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Housing</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Housing</questionText>
+        <responseValues>Bungalow
+Multiple Level Home
+Boarding House
+Mobile Home
+Apartment
+Duplex
+Granny suite
+Senior’s Complex
+Shelter
+Homeless/Living Rough
+Assisted Living
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_Housing</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Housing</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Additional Information for Rehabilitation Assistant formula</description>
+        <isActive>true</isActive>
+        <name>Additional Information for Rehabilitation Assistant formula</name>
+        <optionSourceResponseValue>true</optionSourceResponseValue>
+        <questionText>Additional Information for Rehabilitation Assistant formula</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Formula</dataType>
+    <developerName>HC_CHA_AdditionalInformationforRehabilitationAssistantformula</developerName>
+    <formulaResponseDataType>Boolean</formulaResponseDataType>
+    <name>Additional Information for Rehabilitation Assistant formula</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

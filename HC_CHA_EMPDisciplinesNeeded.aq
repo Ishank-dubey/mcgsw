@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>EMP Disciplines Needed</description>
+        <isActive>true</isActive>
+        <name>EMP Disciplines Needed</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>EMP Disciplines Needed</questionText>
+        <responseValues>No Discipline
+Licensed Practical Nurse
+Occupational Therapist
+Physiotherapist
+Rehabilitation Assistant
+Registered Dietitian
+Registered Nurse
+Registered Respiratory Therapist
+Speech-Language Pathologist
+Social Worker
+Nurse Practitioner
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Multiselect</dataType>
+    <developerName>HC_CHA_EMPDisciplinesNeeded</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>EMP Disciplines Needed</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

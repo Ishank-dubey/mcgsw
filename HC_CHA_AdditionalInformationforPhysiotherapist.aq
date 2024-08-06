@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Additional Information for Physiotherapist</description>
+        <isActive>true</isActive>
+        <name>Additional Information for Physiotherapist</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Additional Information for Physiotherapist</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_AdditionalInformationforPhysiotherapist</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Additional Information for Physiotherapist</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Pain Not Relevant</description>
+        <isActive>true</isActive>
+        <name>Pain Not Relevant</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Not Relevant</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Checkbox</dataType>
+    <developerName>HC_CHA_PainNotRelevant</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Pain Not Relevant</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

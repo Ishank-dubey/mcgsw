@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>If either D150A2 or D150B2 is coded 2 or 3, CONTINUE asking the questions below. If not, END the PHQ interview.</description>
+        <isActive>true</isActive>
+        <name>If either D150A2 or D150B2 is coded 2 or 3, CONTINUE asking the questions below. If not, END the PHQ interview</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>If either D150A2 or D150B2 is coded 2 or 3, CONTINUE asking the questions below. If not, END the PHQ interview</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextBlock</dataType>
+    <developerName>HC_CHA_INSTRUCTIONS</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>If either D150A2 or D150B2 is coded 2 or 3, CONTINUE asking the questions below. If not, END the PHQ interview</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

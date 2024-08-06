@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Formal Support Hours per Day</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Formal Support Hours per Day</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Integer</dataType>
+    <developerName>HC_CHA_FormalSupportHoursperDay</developerName>
+    <name>Formal Support Hours per Day</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

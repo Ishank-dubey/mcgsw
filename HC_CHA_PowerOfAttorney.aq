@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Power Of Attorney</description>
+        <isActive>true</isActive>
+        <name>Power Of Attorney</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Power Of Attorney</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_PowerOfAttorney</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Power Of Attorney</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Other EMP Disciplines Needed</description>
+        <isActive>true</isActive>
+        <name>Other EMP Disciplines Needed</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Other EMP Disciplines Needed</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_OtherEMPDisciplinesNeeded</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Other EMP Disciplines Needed</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

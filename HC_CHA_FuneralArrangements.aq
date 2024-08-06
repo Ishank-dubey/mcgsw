@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Funeral Arrangements</description>
+        <isActive>true</isActive>
+        <name>Funeral Arrangements</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Funeral Arrangements</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_FuneralArrangements</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Funeral Arrangements</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

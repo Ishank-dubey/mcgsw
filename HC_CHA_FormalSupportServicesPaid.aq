@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <isActive>true</isActive>
+        <name>Formal Support Services (Paid)</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Formal Support Services (Paid)</questionText>
+        <responseValues>House Cleaning
+Meals
+Personal Care
+Errands
+Transportation
+Companionship</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Multiselect</dataType>
+    <developerName>HC_CHA_FormalSupportServicesPaid</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Formal Support Services (Paid)</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

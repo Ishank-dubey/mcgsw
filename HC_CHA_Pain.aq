@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Pain</description>
+        <isActive>true</isActive>
+        <name>Pain</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Pain</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_Pain</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Pain</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>
