@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Specify Indigenous Community</description>
+        <isActive>true</isActive>
+        <name>Specify Indigenous Community</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Specify Indigenous Community</questionText>
+        <responseValues>Bouctouche First Nation
+Eel Ground First Nation
+Eel River Bar First Nation
+Elsipogtog First Nation
+Esgenoôpetitj First Nation
+Fort Folly First Nation
+Indian Island
+Kingsclear First Nation
+Madawaska Maliseet First Nation
+Metepenagiag Mi’kmaq Nation
+Oromocto First Nation
+Pabineau First Nation
+St. Mary’s First Nation
+Tobique First Nation
+Woodstock First Nation
+Peskotomuhkati Nation at Skutik
+Other</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_SpecifyIndigenousCommunity</developerName>
+    <name>Specify Indigenous Community</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

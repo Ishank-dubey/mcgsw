@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Specify Incomplete Reason</description>
+        <isActive>true</isActive>
+        <name>Specify Incomplete Reason</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Specify Incomplete Reason</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_SpecifyIncompleteReason</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Specify Incomplete Reason</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

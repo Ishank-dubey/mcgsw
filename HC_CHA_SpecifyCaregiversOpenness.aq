@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Specify Caregiver’s Openness</description>
+        <isActive>true</isActive>
+        <name>Specify Caregiver’s Openness</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Specify Caregiver’s Openness</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_SpecifyCaregiversOpenness</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Specify Caregiver’s Openness</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

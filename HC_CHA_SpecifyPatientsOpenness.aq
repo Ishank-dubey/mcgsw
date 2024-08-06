@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Specify Patient’s Openness</description>
+        <isActive>true</isActive>
+        <name>Specify Patient’s Openness</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Specify Patient’s Openness</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_SpecifyPatientsOpenness</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Specify Patient’s Openness</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

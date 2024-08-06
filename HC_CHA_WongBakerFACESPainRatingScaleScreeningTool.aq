@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Wong-Baker FACES Pain Rating Scale- Screening Tool</description>
+        <isActive>true</isActive>
+        <name>Wong-Baker FACES Pain Rating Scale- Screening Tool</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Wong-Baker FACES Pain Rating Scale- Screening Tool</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Text</dataType>
+    <developerName>HC_CHA_WongBakerFACESPainRatingScaleScreeningTool</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Wong-Baker FACES Pain Rating Scale- Screening Tool</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

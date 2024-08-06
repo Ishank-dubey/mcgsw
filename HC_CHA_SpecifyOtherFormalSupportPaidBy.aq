@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Specify Other Formal Support Paid By</description>
+        <isActive>true</isActive>
+        <name>Specify Other Formal Support Paid By</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Specify Other Formal Support Paid By</questionText>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>TextArea</dataType>
+    <developerName>HC_CHA_SpecifyOtherFormalSupportPaidBy</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Specify Other Formal Support Paid By</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>

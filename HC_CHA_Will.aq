@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssessmentQuestion xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assessmentQuestionVersion>
+        <description>Will</description>
+        <isActive>true</isActive>
+        <name>Will</name>
+        <optionSourceResponseValue>false</optionSourceResponseValue>
+        <questionText>Will</questionText>
+        <responseValues>Yes
+No</responseValues>
+        <status>Active</status>
+        <versionNumber>1</versionNumber>
+    </assessmentQuestionVersion>
+    <dataType>Radio</dataType>
+    <developerName>HC_CHA_Will</developerName>
+    <formulaResponseDataType>Text</formulaResponseDataType>
+    <name>Will</name>
+    <questionCategory>Health</questionCategory>
+</AssessmentQuestion>
